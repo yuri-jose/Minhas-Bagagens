@@ -1,1 +1,2 @@
-# Minhas-Bagagens
+# Minhas-Bagage
+Mais detalhes do projecto...
